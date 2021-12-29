@@ -19,7 +19,7 @@
 
 > termux-setup-storage
 
-> git clone https://github.com/Dark-Knight-Hiruwa/HTML-SCRAPER.git
+> git clone https://github.com/AchiyaCT/ALPHA-HTML-SCRAPER.git
 
 > python req.py
 
