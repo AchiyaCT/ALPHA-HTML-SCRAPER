@@ -1,4 +1,4 @@
-#CODED BY HIRUWA
+#CODED BY HIRWA
 
 
 import os
