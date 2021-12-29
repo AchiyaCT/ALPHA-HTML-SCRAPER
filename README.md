@@ -1,4 +1,10 @@
-# HTML-SCRAPER
+#                                 Welcome To Dark Crime By Achiya.
+
+<h1 align="center"><b>Termux-HTML-SCRAPER BY Hiruwa </b></h1>
+
+![logo](https://telegra.ph/file/04b502d6acab526bb6a6d.png)
+
+
 # මේ ටූල් එකෙන් පුලුවන් ඕනම වෙබ්සයිට් එකක HTML කෝඩ් ගන්න ඉතින් අපි බලමු කෝමද ගන්නේ කියලා....
 
 #How to use this tool
